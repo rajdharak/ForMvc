@@ -3,3 +3,13 @@ pakages
 App_Data
 App_Start
 bin
+fonts
+scripts
+Applicationlnsights.config
+Global.asax
+Global.asax.cs
+MVCAspDotNet0.1.csproj
+MVCAspDotNet0.1.csproj.user
+Web.Debug.config
+Web.Release.config
+packages.config
